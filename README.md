@@ -1,7 +1,7 @@
 # About
 Welcome to the Netflix Clone repository! This project is designed to replicate the core visual elements of Netflix using only HTML and CSS. Whether you're looking to practice front-end development or explore the design aspects of a popular streaming platform, this clone provides a solid foundation for understanding layout and styling.
 
-Note: This project is created for practice purposes.
+
 
 # Technologies Used
 * HTML
